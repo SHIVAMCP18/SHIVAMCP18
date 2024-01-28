@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamcp18&" alt="shivamcp18" /></p>
 
 
-![snake gif](https://github.com/SHIVAMCP18/SHIVAMCP18/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SHIVAMCP18/SHIVAMCP18/blob/output/github-contribution-grid-snake-dark.svg)
