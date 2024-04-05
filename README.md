@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Vim-SetUp**
 
-- 📫 How to reach me **shivamcp6923@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/shivamcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivamcp" height="30" width="40" /></a>
