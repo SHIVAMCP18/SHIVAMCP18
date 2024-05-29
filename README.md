@@ -18,6 +18,3 @@
 <a href="https://codeforces.com/profile/shivamcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shivamcp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/shivamcp6923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shivamcp6923/" height="30" width="40" /></a>
 </p>
-
-
-![snake gif](https://github.com/SHIVAMCP18/SHIVAMCP18/blob/output/github-contribution-grid-snake-dark.svg)
