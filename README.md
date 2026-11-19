@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shivamcp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <!-- <a href=""><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> -->
+  <!-- <a href=""><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a> -->
   <a href="mailto:23bce319@nirmauni.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=shivamcp18&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
@@ -13,71 +13,125 @@
 
 ### About Me
 
-Computer Science undergraduate at **Nirma University** (CGPA 8.78/10), graduating **July 2027**.
+Computer Science undergraduate at **Nirma University** with a **CGPA of 8.84/10**, graduating in **April 2027**.
 
-I build software that runs in production — backend services, REST APIs, and full-stack web applications — with a growing focus on applied machine learning and AI systems.
+I build production-oriented software across backend systems, distributed infrastructure, full-stack applications, and applied AI. I enjoy working on problems involving scalable APIs, system reliability, retrieval systems, agentic AI, and developer infrastructure.
 
-- 🔭 Currently building **backend systems** and **LLM-powered applications**
-- 🧠 Researching **hybrid quantum-classical models for medical imaging** (in progress)
-- 💼 Previously interned at **Adani Group**, **Maruti Enterprise**, and **Nexus Software**
-- 🏆 **Top 1500 nationally** — Google Big Code Challenge | **NASA Space Apps 2024** — Top Teams at Nirma
+- 🔭 Building **distributed systems, backend platforms, and AI-powered applications**
+- 🤖 Exploring **RAG, LLM agents, semantic retrieval, and human-in-the-loop AI systems**
+- 🧠 Researching **hybrid quantum-classical learning for medical imaging**
+- 💼 Engineering experience at **Adani Group, Maruti Enterprise, and Disha Enterprise**
+- ⚡ Built production systems using **Java, Spring Boot, Python, React, PostgreSQL, AWS, and Docker**
+- 🏆 **Semi-Finalist, Flipkart GRID 8.0** | **Top Team, NASA Space Apps 2024** | **Top 1,500, Google Big Code Challenge**
 
 ---
 
 ### Tech Stack
 
 **Languages**
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
 
-**Backend & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)" />
+&#x20; \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" />
+\</p>
+
+**Backend & Full Stack**
+
+\<p>   \<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)" /> \</p>
 
 **Databases & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)" />
+\</p>
 
 **AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-</p>
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/LLMs-412991?style=flat-square\&logo=openai\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/RAG-000000?style=flat-square](https://img.shields.io/badge/RAG-000000?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square](https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square)" />
+&#x20; \<img src="[https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/pgvector-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)" />
+\</p>
+
+---
+
+### Experience
+
+**Software Developer Intern · Adani Group**
+`Jun 2026 – Jul 2026`
+
+- Optimized production REST APIs using **Spring Cache and Java ExecutorService**, reducing latency by **60%+**.
+- Built a scalable **Spring Boot + AWS S3** image-storage microservice and real-time notification services using Firebase and PostgreSQL, increasing user engagement by **30%**.
+- Enhanced production APIs with bulk processing, resolved critical defects, and integrated external APIs.
+
+**Software Engineer · Maruti Enterprise**
+`Oct 2024 – Mar 2026`
+
+- Built production **RAG pipelines** using embeddings, vector retrieval, hybrid search, reranking, and grounded generation.
+- Developed **tool-calling agent workflows** with multi-step execution, error recovery, and human-in-the-loop approvals.
+- Built evaluation and regression workflows for measuring LLM reliability before releases.
+
+**Software Engineer Intern · Disha Enterprise**
+`May 2023 – Sep 2024`
+
+- Developed backend APIs and application workflows with validation, database operations, and structured error handling.
+- Worked on authentication and authorization using **JWT/OAuth and RBAC**.
+- Built full-stack and AI-powered application functionality with logging, monitoring, and production debugging.
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[CoreInventory](https://github.com/SHIVAMCP18/CoreInventory)** | Production-ready inventory management backend with 15+ REST endpoints, normalized schema, and CI-tested pull requests | Node.js · Express · PostgreSQL · Jest |
-| **[ShieldGate](https://github.com/SHIVAMCP18/Mined-Hackthon)** | Secure PII sanitizer detecting and redacting sensitive data across PDF, image, and text formats with 90%+ accuracy | Python · Tesseract OCR · Supabase |
-| **[Gaming Multiverse](https://github.com/SHIVAMCP18/Gaming-Website)** | High-performance frontend with code-splitting and lazy loading, achieving sub-second load times | React 19 · Vite · Tailwind |
+| Project                                                                                            | Description                                                                                                                                                             | Stack                                              |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [**FlowForge**](https://github.com/SHIVAMCP18/Flowforge)                                           | Fault-tolerant distributed execution platform with concurrent workers, transactional task leasing, retries, checkpoints, crash recovery, and **41 runs/sec per worker** | Java · Spring Boot · Go · PostgreSQL               |
+| [**Customer Intelligence Platform**](https://github.com/SHIVAMCP18/Customer-Intelligence-Platform) | AI-native platform for customer feedback with **RAG, embeddings, semantic retrieval, pgvector, clustering, and 47 automated tests**                                     | React · TypeScript · Python · FastAPI · PostgreSQL |
+| [**RetailFlow**](https://github.com/SHIVAMCP18/retailflow-devops)                                  | Cloud-native commerce platform with ACID transactions, a **5-stage CI/CD pipeline**, Kubernetes deployment, and automated health validation                             | Node.js · PostgreSQL · Docker · Kubernetes         |
+
+---
+
+### Engineering Interests
+
+- Distributed Systems & Backend Engineering
+- Applied AI & LLM Systems
+- Retrieval-Augmented Generation
+- Agentic AI & Human-in-the-Loop Systems
+- Cloud Infrastructure & CI/CD
+- Performance, Reliability & Developer Tooling
+
+---
+
+### Leadership
+
+- **Technical Head**, ACES
+- **Board Member**, IEEE Signal Processing Society
+- **Semi-Finalist**, Flipkart GRID 8.0
+- **Top Team**, NASA Space Apps Challenge 2024
+- **Top 1,500**, Google Big Code Challenge
 
 ---
 
 ### GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />
+&#x20; \<img height="165" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
+\</p>
+
