@@ -134,12 +134,4 @@ I build production-oriented software across backend systems, distributed infrast
 - **Top Team**, NASA Space Apps Challenge 2024
 - **Top 1,500**, Google Big Code Challenge
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
 
