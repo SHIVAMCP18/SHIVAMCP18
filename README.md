@@ -30,45 +30,53 @@ I build production-oriented software across backend systems, distributed infrast
 
 **Languages**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 **Backend & Full Stack**
 
-\<p>   \<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)" /> \</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
 
 **Databases & Infrastructure**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
 **AI / ML**
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/LLMs-412991?style=flat-square\&logo=openai\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/RAG-000000?style=flat-square](https://img.shields.io/badge/RAG-000000?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square](https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square)" />
-&#x20; \<img src="[https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/pgvector-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic_AI-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
 ---
 
@@ -130,8 +138,8 @@ I build production-oriented software across backend systems, distributed infrast
 
 ### GitHub Stats
 
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)" />
-&#x20; \<img height="165" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
-\</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SHIVAMCP18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SHIVAMCP18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
